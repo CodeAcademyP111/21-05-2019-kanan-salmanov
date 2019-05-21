@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: grey;
+    width: 75px;
+    height: 40px;
+    text-align: center;
+    align-content: center;
+    margin-left: 85px;
+    margin-bottom: 50px;
+    border: none;
+}
+#ul{
+    margin-left: 35px;
+}
+
+.myInput {
+    margin: 50px;
+}
